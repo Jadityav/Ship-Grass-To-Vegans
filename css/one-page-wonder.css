@@ -1,0 +1,83 @@
+
+body {
+  font-family: 'Lato';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Catamaran';
+  font-weight: 800 !important;
+  
+}
+
+.btn-xl {
+  text-transform: uppercase;
+  padding: 1.5rem 3rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+}
+
+
+.logo img {
+  height : 70%;
+  width : 50%;
+}
+
+.shop img{
+  height : 250px;
+}
+
+.btn-primary {
+  background-color: rgb(29, 29, 29);
+  border-color: rgb(29, 29, 29);
+}
+
+.btn-primary:hover {
+  background-color: rgb(122, 0, 31);
+  border-color: rgb(122, 0, 31);
+}
+
+.btn-primary:focus {
+  background-color: rgb(29, 29, 29);
+  border-color: rgb(29, 29, 29);
+}
+
+header.masthead {
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 75px;
+  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background-position: center center;
+  background-size: cover;
+}
+
+.section-padding {
+  padding-top: 90px;
+}
+
+.masthead-heading {
+  font-size: 4rem;
+}
+
+.masthead-subheading {
+  font-size: 2rem;
+}
+
+table{
+  border: 1px solid black;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black;
+}
+
+
+
+
+
